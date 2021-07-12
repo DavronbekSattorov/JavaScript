@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: aqua;
+    width: 80%;
+    margin: 0 auto;
+    font-family: Candara;
+    
+    
+}
+
+.language {
+    width: 45%;
+    float: left;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 5px;
+}
+
+
+.word {
+    border: 2px solid rgb(132, 130, 130);
+    border-radius: 5px;
+    height: 200px;
+    
+}
+
+
+.nameLanguage {
+    background-color: #fad390;
+    border: 2px solid rgb(142, 139, 139);
+    border-radius: 5px;
+    
+}
+
+#getWord {
+    margin-top: 5px;
+    width: 95%;
+    height: 40%;
+    font-size: 20px;
+}
+
+button {
+    background-color: #f8c291;
+    border: 2px solid #c1bdbd;
+    color: rgb(3, 3, 3);
+    padding: 15px 32px;
+    text-align: center;
+    
+    
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+
+#translation {
+    font-size: 20px;
+    margin-top: 30px;
+}
